@@ -81,8 +81,8 @@ DevOps Engineer with 3+ years of experience designing and operating AWS cloud in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-Krishna47&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Krishna47&theme=default&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwin-Krishna47&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Ashwin-Krishna47&theme=dark&hide_border=true&background=0D1117" width="49%" />
 
 <br/><br/>
 
