@@ -1,7 +1,10 @@
 <div align="center">
 
-# Ashwin Krishna
-### DevOps Engineer | AWS Cloud Infrastructure | Kubernetes | CI/CD Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E5C8A&height=140&section=header&text=Ashwin%20Krishna&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=1F3A5F&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+AWS+Cloud+Infrastructure;Kubernetes+%7C+CI%2FCD+Automation;Reducing+Cost.+Increasing+Reliability." alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-krishna-profile/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinkrishna1022@gmail.com)
@@ -81,10 +84,17 @@ DevOps Engineer with 3+ years of experience designing and operating AWS cloud in
 <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-Krishna47&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Krishna47&theme=default&hide_border=true" width="49%" />
 
+<br/><br/>
+
+<!-- snake animation: requires the GitHub Action set up below -->
+<img src="https://raw.githubusercontent.com/Ashwin-Krishna47/Ashwin-Krishna47/output/github-contribution-grid-snake.svg" width="100%" />
+
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3A5F,100:2E5C8A&height=3&width=100%25"/>
+<br/>
 <sub>Open to DevOps / Cloud Infrastructure roles — <a href="mailto:ashwinkrishna1022@gmail.com">ashwinkrishna1022@gmail.com</a></sub>
 </div>
